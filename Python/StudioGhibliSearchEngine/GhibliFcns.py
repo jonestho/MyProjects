@@ -130,13 +130,20 @@ def peopleSearch(url):
     # Gathering the attributes for our person
     for i in range(len(people)):
         person = people[i]['name']
-        sex = people[i]['gender']
+        if 'gender' not in people[i]:
+            sex = people[i]['gander']
+        else:
+            sex = people[i]['gender']
         age_years = people[i]['age']
         hair = people[i]['hair_color']
         race = people[i]['species']
         response = requests.get(race, params=parameters)
         race_result = response.json()
-        race = race_result['name']
+
+        if isinstance(race_result, dict):
+            race = race_result['name']
+        else:
+            race = race_result[0]['name']
 
         film_ids = people[i]['films']
         for film in film_ids:
