@@ -4,7 +4,7 @@ All the work in this repository has been done since 2020. Some of them started o
 
 Some of the source code that can be found in here are written in languages such as:
 
--Python
+- Python
 -Java
 -SQL
 -C
