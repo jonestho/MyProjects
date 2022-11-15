@@ -1,6 +1,6 @@
-Welcome to the collection of my independent work!
+Welcome to the collection of my independent and collaborative work!
 
-All the work in this repository has been done between 2020 and 2022. Some of them started out as an academic project/assignment, but then got features added and/or refined.
+All the work in this repository has been done since 2020. Some of them started out as an academic project/assignment, but then got features added and/or refined.
 
 I hope you enjoy discovering this repository!
 
