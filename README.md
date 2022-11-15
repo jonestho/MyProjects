@@ -5,9 +5,9 @@ All the work in this repository has been done since 2020. Some of them started o
 Some of the source code that can be found in here are written in languages such as:
 
 - Python
--Java
--SQL
--C
+- Java
+- SQL
+- C
 
 I hope you enjoy discovering this repository!
 
