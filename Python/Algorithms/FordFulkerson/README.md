@@ -21,5 +21,7 @@ Suppose we have vertices x, y, and z in a path that starts at source node s and 
 - Condition 3: If the edge (x, z) has a weight that is less than an edge (y, z) such that x is not equal to y, change the weight of the edges coming from z to be (x, z)’s weight.
 
 The algorithm is based off of the directed graph given below:
+
 ![alt text](https://i.imgur.com/kl10LVw.png)
+
 (Diagram from Mark Allen Weiss Data Structures & Algorithm Analysis in C++)
