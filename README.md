@@ -8,6 +8,7 @@ Some of the source code that can be found in here are written in languages such 
 - Java
 - SQL
 - C
+- HTML
 
 I hope you enjoy discovering this repository!
 
